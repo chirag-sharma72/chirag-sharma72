@@ -1,4 +1,5 @@
-# Hi there 👋🏻
+🧑🏻‍💻 <b> Penetration Tester | Red Team Security Engineer | Application Security Engineer </b> 🧑🏻‍💻
+
 I am Chirag Sharma, currently residing in Noida, IN, working as a VAPT and SOC Analyst as an Assistant System Engineer at TCS. I am currently looking for 
 
 ## Currently Learning
