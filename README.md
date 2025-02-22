@@ -1,9 +1,9 @@
-# Chirag Sharma - Penetration Tester, Red Team Engineer
-I am Chirag Sharma, currently residing in Noida, IN, working as a VAPT and SOC Analyst as an Assistant System Engineer at TCS
+# Hi there 👋🏻
+I am Chirag Sharma, currently residing in Noida, IN, working as a VAPT and SOC Analyst as an Assistant System Engineer at TCS. I am currently looking for 
 
 ## Currently Learning
 
-I am currently learning about Python and Bash Scripting, and so you may see some projects related to them on my profile
+I am currently learning about Python and Shell Scripting, and so you may see some projects related to them on my profile
 
 ## Speaking Engagements and Presentations
 
