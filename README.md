@@ -12,8 +12,8 @@ Here are some speaking engagements delivered to global audiences
 
 <b>Global Azure 2022 and Cloud Summit 2021</b>
 
-![Global Azure 2022](https://github.com/user-attachments/assets/6109d711-83f4-4583-8018-5e85868a9f86)
 ![Cloud Summit 2021](https://github.com/user-attachments/assets/4dab31f7-0c56-4351-9c7b-327f639c2654)
+![Global Azure 2022](https://github.com/user-attachments/assets/6109d711-83f4-4583-8018-5e85868a9f86)
 
 <b>CyberTalks Podcast</b>
 
